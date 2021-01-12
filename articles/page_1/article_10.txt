@@ -1,0 +1,8 @@
+10
+Rapid introduction of disease resistance from rye into common wheat by anther culture of a 6x triticale x nulli-tetrasomic wheat
+0.8682354
+Authors:Zhang, XQWang, XPRoss, KHu, HGustafson, JP
+2001
+Plant Breed.
+AbstractPowdery mildew (caused by Erysiphe graminis) and yellow rust (caused by Puccinia striiformis) are the two most serious wheat diseases found in China. Rye chromosomes, carrying genes for resistance to these diseases, were introduced into common wheat in two generations using chromosome engineering and anther culture. The F-1 hybrids from a cross involving a hexaploid triticale (x Triticosecale Wittmack) x 'Chinese Spring' nulli-tetrasomic N6DT6A wheat aneuploid line were anther cultured and doubled-haploid plants were regenerated. Using genomic in situ hybridization, C-banding and biochemical marker analyses, one of the anther-cultured lines (ZH-1)studied in derail, proved to be a doubled-haploid with one rye chromosome pair added (1R) and a homozygous 6R/6D substitution (2n = 44). The line was tested for expression of disease resistance and found to be highly resistant to powdery mildew and moderately resistant to yellow rust.
+ 

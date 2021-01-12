@@ -1,0 +1,8 @@
+62
+Mapping quantitative resistance loci for bacterial leaf streak disease in hard red spring wheat using an identity by descent mapping approach
+0.535821
+Authors:Kandel, YRGlover, KDOsborne, LEGonzalez-Hernandez, JL
+2015
+Euphytica
+AbstractBacterial leaf streak (BLS; caused by Xanthomonas campestris pv. translucens) has become a serious disease of wheat (Triticum aestivum) in the Midwest USA. This study was conducted to map quantitative trait loci (QTL) controlling resistance to BLS in spring wheat using an identity by descent (IBD) mapping approach. The mapping population consisted of 825 individuals representing 60 families. Resistance phenotyping was carried out in greenhouse and field research plots. QTL analysis was performed using both linkage and association-based approaches. Two genomic regions near the simple sequence repeat loci Xwmc522 and Xbarc134, on chromosomes 2A and 6B, respectively, were significantly associated with resistance in both greenhouse and field evaluations. The Xwmc291 and Xbarc3, loci were also significantly associated with greenhouse evaluations of resistance, and Xgwm550 was significantly associated with field observations. Variance explained by the significant markers ranged from 0.56 to 29.56 %, Xwmc522 was most associated with resistance, and narrow-sense heritability for resistance was 0.28. This study demonstrates that the IBD mapping technique is a viable alternative to traditional bi-parental mapping for detecting markers associated with complex traits, like partial disease resistance in breeding populations. This information is potentially useful for marker-assisted selection and should ultimately accelerate development of resistant cultivars.
+ 

@@ -1,0 +1,8 @@
+45
+'CPAN 1842': a new source of adult plant leaf rust resistance in bread wheat
+0.5881873
+Authors:Mishra, ANKaushal, KDubey, VGPrasad, SVSPrakasha, TL
+2015
+Plant Breed.
+AbstractThere is worldwide interest in adult plant resistance (APR) because of greater durability of APR to the cereal rusts. Peruvian bread wheat genotype 'CPAN (Coordinated Project Accession Number) 1842' (LM 50-53) has shown leaf rust resistance in disease screening nurseries since its introduction in 1977. However, it is susceptible at the seedling stage to several Puccinia triticina (Pt) pathotypes including the widely prevalent 77-5 (121R63-1) that infects bread wheat. Inheritance studies showed that CPAN 1842 carried a dominant gene for APR to pathotype 77-5, which was different from Lr12, Lr13, Lr22a, Lr34, Lr35, Lr37, Lr46, Lr48, Lr49 and Lr68, based on the tests of allelism; and from Lr67, based on genotyping with the closely linked SSR marker cfd71. This gene should also be different from Lr22b as the latter is totally ineffective against pathotype 77-5. CPAN 1842 therefore appears to be a new promising source of leaf rust resistance. Also having resistance to stem rust and stripe rust, this line can contribute to breeding for multiple rust resistances in wheat.
+ 

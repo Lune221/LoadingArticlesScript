@@ -1,0 +1,8 @@
+32
+Identification of RFLP markers for resistance to wheat spindle streak mosaic bymovirus (WSSMV) disease
+0.6215566
+Authors:Khan, AABergstrom, GCNelson, JCSorrells, ME
+2000
+Genome
+AbstractWheat spindle streak mosaic bymovirus (WSSMV) causes an economically important disease of winter wheat in Europe and North America. Artificial inoculation with this virus to identify resistant wheat genotypes is difficult. This study was conducted to identify restriction fragment length polymorphism (RFLP) markers associated with resistance to this disease. A population, consisting of 104 F-5 recombinant inbred lines from a cross between hexaploid Triticum aestivum cultivars 'Geneva' (resistant) and 'Augusta' (susceptible), was evaluated for WSSMV symptoms under field conditions for four years. Two linked markers on the long arm of chromosome 2D, Xbcd1095 and Xcdo373, were determined to be associated with WSSMV resistance by bulked segregant analysis of the 10 most resistant and 10 most susceptible lines. Marker Xcdo373 accounted for 79% and Xbcd1095 for 73% of the phenotypic variation. Our results suggest that resistance to WSSMV in this population is qualitative in nature and is controlled by few genes. These markers should be useful in the development of wheat cultivars resistant to WSSMV and perhaps also to wheat yellow mosaic bymovirus (WYMV).
+ 

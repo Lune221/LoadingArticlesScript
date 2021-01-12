@@ -1,0 +1,8 @@
+46
+QTL mapping of adult-plant resistance to stripe rust in wheat line P9897
+0.5881873
+Authors:Zhou, XLHan, DJChen, XMMu, JMXue, WBZeng, QDWang, QLHuang, LLKang, ZS
+2015
+Euphytica
+AbstractStripe rust (or yellow rust), caused by Puccinia striiformis f. sp. tritici (Pst), is a devastating fungal disease of common wheat. Wheat line P9897 showed adult-plant resistance (APR) to stripe rust for several years. To map resistance quantitative trait loci (QTL), F-2:3 lines from a cross of P9897 with susceptible Mingxiang 169 were phenotyped for stripe rust response in replicated field trials in 2013. Resistance gene analog polymorphism and simple sequence repeat markers were used to identify markers linked to the resistance QTL. Two QTL, QYr.nafu-2BL and QYr.nafu-3BS conferring APR to stripe rust, were mapped to 8.8 and 3.3 cM intervals on chromosome 2BL and 3BL, respectively. QYr.nafu-2BL is likely a new APR gene for resistance to stripe rust, and QYr.nafu-3BS is likely the same locus as previously identified QYr.uga-3BS.1. These QTL with linked markers could be used in developing wheat cultivars with stripe rust resistance.
+ 

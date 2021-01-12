@@ -1,0 +1,8 @@
+20
+An autosomal genome-wide screen for celiac disease in Bedouin families
+0.669083
+Authors:Ding, YCWeizman, ZYerushalmi, BElbedour, KGarner, CPNeuhausen, SL
+2008
+Genes Immun.
+AbstractCeliac disease is a common, familial autoimmune disease caused by exposure to gliadin in wheat, and related prolamins in barley and rye. The prevalence of the disease is approximately 1:133. Celiac disease can cause significant morbidity. The only treatment is a gluten-free diet. A genome-wide search of 405 microsatellite markers was performed on samples from 18 Bedouin families with a minimum of two cases of celiac disease. Non-parametric and parametric (including both dominant and recessive models of inheritance) linkage analyses were performed. The most significant genome-wide linkage evidence was at chromosome 3p26 with an HLod of 3.21, under the dominant model. The only other HLod or NPL greater than 2 was at 4q35, with an HLod of 2.15 under a dominant model. The region at 3p26, previously reported in two linkage analyses, harbors interleukin receptor genes, plausible candidates for celiac disease.
+ 

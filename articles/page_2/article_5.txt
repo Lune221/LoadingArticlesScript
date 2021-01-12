@@ -1,0 +1,8 @@
+55
+Mapping of spot blotch disease resistance using NDVI as a substitute to visual observation in wheat (Triticum aestivum L.)
+0.55548084
+Authors:Kumar, SRoder, MSSingh, RPKumar, SChand, RJoshi, AKKumar, U
+2016
+Mol. Breed.
+AbstractEvaluation of wheat for spot blotch disease resistance relies on various visual observation methods. The person evaluating the lines needs to be experienced in scoring disease severity. To facilitate high-throughput phenotyping, a hand-held green seeker NDVI sensor was used to map spot blotch disease resistance QTLs. A total of 108 germplasm lines along with 335 SSD-derived lines (F-4 and F-5 generations) originating from the cross 'YS116 x Sonalika' were used. The population was evaluated at BISA, Pusa Bihar, a hot spot for spot blotch, for 2 consecutive years. Data were recorded using the NDVI as well as by visual observation as % disease severity. The correlation coefficient was calculated between two scoring methods (NDVI and % DS) recorded at different growth stages. High negative correlation was observed between the NDVI and % DS at GS69 and GS77 on Zadoks' scale. With both methods, the QTL was mapped in the same chromosomal region on 5BL. Using the NDVI value, the detected QTL explained up to 54.9 % of phenotypic variation while up to 56.1 % using the % DS. The Sb2 gene was mapped between the markers Xgwm639 and Xgwm1043 with an interval of 0.62 cM. The markers linked to the Tsn1 gene (Xfcp1 and Xfcp623) were mapped 1.1 cMapart fromthe sb2 gene. It is concluded that the NDVI the can be used as an alternative to visual scoring of spot blotch disease in wheat and create a new avenue for high-throughput phenotyping.
+ 

@@ -1,0 +1,8 @@
+66
+Expression of a Thatcher Wheat Adult Plant Stem Rust Resistance QTL on Chromosome Arm 2BL is Enhanced by Lr34
+0.5250263
+Authors:Kolmer, JAGarvin, DFJin, Y
+2011
+Crop Sci.
+AbstractAn F(6) recombinant inbred line (RIL) spring wheat (Triticum aestivum L.) population derived from RL6071, a stem rust susceptible line, and RL6058, a backcross line of Thatcher wheat with Lr34 that is highly resistant to stem rust, was evaluated for adult plant stem rust resistance in North Dakota in 1999, and in Kenya in 2007 and 2008. In all three tests, most RILs that exhibited low stem rust severity had Lr34 and most lines that had high disease severity lacked Lr34. Molecular mapping with DArT and simple sequence repeat (SSR) markers detected a quantitative trait locus (QTL) for adult plant stem rust resistance on chromosome arm 2BL. The RILs with both Lr34 and DArT marker wPt5044 on 2BL had significantly lower stem rust severities compared with lines that only had Lr34 in North Dakota 1999 and Kenya 2008. Marker wPt5044 alone did not significantly increase stem rust resistance. The QTL region on 2BL was not associated with any previously mapped Thatcher seedling stem rust resistance genes. The stem rust resistance in Thatcher enhanced by the presence of Lr34 is effective to different races in North America and Kenya and mapped to the same QTL.
+ 

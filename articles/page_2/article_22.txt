@@ -1,0 +1,8 @@
+72
+QTL Mapping for Adult-Plant Resistance to Stripe Rust in a Common Wheat RIL Population Derived from Chuanmai 32/Chuanyu 12
+0.5205772
+Authors:Wu, LXia, XCZheng, YLZhang, ZYZhu, HZLiu, YJYang, ENLi, SZHe, ZH
+2012
+J. Integr. Agric.
+AbstractStripe rust, caused by Puccinia striiformis f. sp. tritici, is a devastating wheat disease worldwide. The Chinese wheat cultivar Chuanmai 32 has shown stable resistance to stripe rust for 10 yr in Sichuan Province, a hotspot for stripe rust epidemics. The objective of the present study was to map quantitative trait loci (QTL) for adult-plant resistance (APR) to stripe rust in a population of 140 recombinant inbred lines (RILs) derived from Chuanmai 32/Chuanyu 12. Field trials were conducted in Chengdu and Yaan, Sichuan, from 2005 to 2008, providing stripe rust reaction data for 6 environments. 797 simple sequence repeat (SSR) markers were screened for association with stripe rust reaction, initially through bulked segregant analysis (BSA). Based on the mean disease values averaged across environments, the broad-sense heritability of maximum disease severity (MDS) was 0.75. Two QTLs for stripe rust resistance were detected by composite interval mapping (CIM). They were designated QYr.caas-3BL and QYr.caas-3BS and explained from 6.6 to 20.1%, respectively, of the phenotypic variance across environments. QYr.caas-3BL came from Chuanmai 32; QYr.caas-3BS with lower effect was from the susceptible parent Chuanyu 12. Both QTLs appear to be new.
+ 

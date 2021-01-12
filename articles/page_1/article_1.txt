@@ -1,0 +1,8 @@
+1
+The detection and molecular mapping of a major gene for non-specific adult-plant disease resistance against stripe rust (Puccinia striiformis) in wheat
+1.2982811
+Authors:Borner, ARoder, MSUnger, OMeinel, A
+2000
+Theor. Appl. Genet.
+AbstractA major gene determining non-specific adult-plant disease resistance against stripe rust (Puccinia striiformis) designated Yrns-B1 was mapped by using a cross between 'Lgst.79-74' (resistant) and 'Winzi' (susceptible). Analyzing F-3 lines of two consecutive experimental years contrary modes of inheritance were observed due to the intermediate character of the gene and the difference in the disease pressure during the seasons. Using the disease scoring data of both experimental years independently two maps were constructed detecting Yrns-B1 20.5 and 21.7 cM, respectively, proximal to the wheat microsatellite (WMS) marker Xgwm493 on the short arm of chromosome 3BS. The genetic relationships to other major genes or to quantitative trait loci controlling adult plant disease resistance against rusts in wheat are discussed.
+ 

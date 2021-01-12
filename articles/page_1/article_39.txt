@@ -1,0 +1,8 @@
+39
+Identification of QTL for adult plant resistance to stripe rust in Chinese wheat landrace Caoxuan 5
+0.6013278
+Authors:Zhou, XLZhang, YZeng, QDChen, XMHan, DJHuang, LLKang, ZS
+2015
+Euphytica
+AbstractYellow (or stripe) rust, caused by Puccinia striiformis f. sp. tritici (Pst), is an important wheat disease worldwide. The development of wheat cultivars with adult plant resistance (APR) has been given increasing emphasis in recent years because of the reputed durability of APR compared to all-stage resistance. Wheat landrace Caoxuan 5 showed a high level of APR in field nurseries from 2008 to 2014. Bulked segregant analysis using resistance gene analog polymorphism, simple sequence repeat and sequence-tagged site markers identified molecular markers linked to resistance genes. A total of 176 F-3 lines were evaluated for stripe rust response in field nurseries at two sites for 2 years. Broad sense heritability of APR in the population was estimated as 0.81. Inclusive composite interval mapping identified quantitative trait loci (QTL) QYrcx.nafu-3BS and QYrcx.nafu-6AL conferring adult plant resistance and they explained 17.3-38.1 % and 9.7-19.8 % of the phenotypic variations, respectively. Based on molecular markers, both QTL appear to be different from previously identified stripe rust resistance genes. The resistance QTL and their molecular markers identified in Caoxuan 5 should be useful in breeding for stripe rust resistance.
+ 

@@ -1,0 +1,7 @@
+24
+Genetic Analysis of Resistance Gene Analogues from a Sugarcane Cultivar Resistant to Red Rot Disease
+0.6570474
+Authors:Hameed, UPan, YBIqbal, J
+2015
+J. Phytopathol.
+AbstractOne of the important approaches for disease control in sugarcane is to develop a disease-resistant variety; this may be accomplished through identification of resistance genes in sugarcane. In this study, PCR primers targeting the conserved motifs of the nucleotide-binding site (NBS) class and kinase class of the resistance gene analogues (RGAs) were used to amplify the RGAs from a red rot-resistant sugarcane cultivar (Saccharum spp. hybrid) HSF 240. Upon subcloning and sequencing, fifteen putative RGAs were identified. These RGAs shared 63-98% identity to the reported disease-resistant genes in the NCBI GenBank database. Deduced amino acid sequences also showed the presence of expected conserved domains characteristic of RGAs. Phylogenetic analysis indicated that these RGAs clustered with R genes from other plant species. The findings will be useful for studying disease-resistant genes in sugarcane.

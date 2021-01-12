@@ -1,0 +1,8 @@
+90
+Construction of two Lolium perenne BAC libraries and identification of BACs containing candidate genes for disease resistance and forage quality
+0.49204624
+Authors:Farrar, KAsp, TLubberstedt, TXu, MLThomas, AMChristiansen, CHumphreys, MODonnison, IS
+2007
+Mol. Breed.
+AbstractTwo BAC libraries were constructed for the forage and turf grass species Lolium perenne L. The libraries consisted of 98,304 and 101,376 BAC clones for L. perenne genotypes LTS18 and NV#20F1-30, respectively. The estimated average insert size of both libraries was approximately 100 Kb and L. perenne has a published haploid genome size of 2,034 Mb. Taken together, the two libraries represent almost 10 genome equivalents, so that there is a very high probability of any specific sequence being represented. BAC DNA was isolated and pooled to enable PCR-based screening of both libraries. In addition, BAC clones from the LTS18 genotype were replicated onto filters to enable hybridisation-based screening. To validate the libraries, primers were designed to 20 genes involved in the phenylpropanoid pathway, disease resistance candidate genes and laccases. These primers were used to screen both libraries to verify the genome coverage and to enable the identification of full-length gene and promoter sequences for subsequent single nucleotide polymorphism (SNP) analyses. These sequences will enable studies of gene function and regulation as well as the identification of efficient genetic markers for plant breeders to improve disease resistance and forage quality.
+ 

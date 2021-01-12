@@ -1,0 +1,8 @@
+58
+Combined expression of chitinase and lipid transfer protein genes in transgenic carrot plants enhances resistance to foliar fungal pathogens
+0.5451831
+Authors:Jayaraj, JPunja, ZK
+2007
+Plant Cell Reports
+AbstractTwo pathogenesis-related (PR) protein genes consisting of a barley chitinase (chi-2) and a wheat lipid-transfer-protein (ltp) were introduced singly and in combination into carrot plants via Agrobacterium-mediated transformation using the phosphinothricin acetyl transferase (bar) gene as a selectable marker. Over 75% of regenerated plants were confirmed to be positive for the transgenes by PCR and RT-PCR and were resistant to the herbicide Liberty (0.2%, v/v). Northern analysis and immunoblotting confirmed the expression of the transgenes in about 70% of the plants, with variable expression levels among individual lines. Southern analysis revealed from one to three copies of each transgene. Transgenic plants were inoculated with two necrotrophic foliar fungal pathogens, Alternaria radicicola and Botrytis cinerea, and showed significantly higher resistance when both PR genes were expressed compared to single-gene transformants. The level of disease reduction in plants expressing both genes was 95% for Botrytis and 90% for Alternaria infection compared to 40-50% for single-gene transformants. The chi2 and ltp genes could be deployed in combination in other crop plants to significantly enhance resistance to necrotrophic fungal pathogens.
+ 

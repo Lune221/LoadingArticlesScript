@@ -1,0 +1,8 @@
+21
+Effects of environment, disease progress, plant height and heading date on the detection of QTLs for resistance to Fusarium head blight in an European winter wheat cross
+0.6648637
+Authors:Klahr, AZimmermann, GWenzel, GMohler, V
+2007
+Euphytica
+AbstractIn order to characterise quantitative trait loci (QTLs) for Type I and Type II resistance against Fusarium head blight (FHB) in wheat, a population of recombinant inbred lines derived from the cross Cansas (moderately resistant)/Ritmo (susceptible) was evaluated in spray-inoculated field trials over three seasons. Map-based QTL analysis across environments revealed seven QTLs on chromosomes 1BS, 1DS, 3B, 3DL, 5BL, 7BS and 7AL (QFhs.whs-1B, QFhs.whs-1D, QFhs.whs-3B, QFhs.whs-3D, QFhs.whs-5B, QFhs.whs-7A, QFhs.whs-7B) associated with FHB resistance. They accounted for 56% of the phenotypic variance. QFhs.whs-1D primarily appeared to be involved in resistance to fungal penetration, whereas the other QTLs mainly contributed to resistance to fungal spread. FHB resistance was significantly correlated with plant height (PH) and heading date (HD). Including all single environments, corresponding overlaps of QTLs for FHB resistance and QTLs for PH/HD occurred at six loci, among them two consistently detected QTLs, QFhs.whs-5B and QFhs.whs-7A. When significant effects of PH and HD on FHB resistance were eliminated by covariance analysis, a second QTL analysis revealed possible escape mechanisms for the majority of the coincidental loci.
+ 

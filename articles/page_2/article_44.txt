@@ -1,0 +1,8 @@
+94
+A rapid visual method to identify transformed plants
+0.47234416
+Authors:Wright, MSLaunis, KBowman, CHill, MDimaio, JKramer, CShillito, RD
+1996
+In Vitro Cell. Dev. Biol.-Plant
+AbstractA rapid, efficient assay that is nondestructive and semiquantitative for identifying transgenic plants and progeny from Biolistic(R) and protoplast transformations is described. Leaf sections of maize and wheat plants are placed on an indicator medium containing chlorophenol red and the selection agent. Changes in the color of the medium from red to yellow resulting from altered pH indicate transformed plants within 2-5 d. The method is particularly suited to use with phosphinothricin and could be used with other suitable selectable markers.
+ 

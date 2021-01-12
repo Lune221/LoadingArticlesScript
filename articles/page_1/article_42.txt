@@ -1,0 +1,8 @@
+42
+High-temperature adult-plant resistance to stripe rust in facultative winter wheat
+0.5955737
+Authors:Akin, BChen, XMMorgunov, AZencirci, NWan, AMWang, MN
+2016
+Crop Pasture Sci.
+AbstractStripe (yellow) rust, caused by Puccinia striiformis Westend. f.sp. tritici Erikss., is one of the most damaging diseases in wheat and is especially damaging for winter and facultative wheat. The objective of this study was to understand stripe rust resistance in 100 wheat and facultative wheat entries from the International Winter Wheat Improvement Program by conducting experiments in a greenhouse and in four field environments in Washington State, USA, and by genotyping molecular markers linked to Yr genes. Percentages of entries resistant to the rust races at the seedling stage were: PST-17, 44%; PST-37, 32%; PST-43, 45%; PST-45, 49%; PST-116, 18%; PST-100, 17%; and PST-127, 8%. Molecular markers were positive for genes Yr9, Yr17, and Yr18 and negative for Yr5, Yr10, and Yr15. Yr18 was present in 44 entries (44%). By using the highly virulent races PST-127 and PST-100 under controlled conditions, 16 entries were shown to have high-temperature adult-plant (HTAP) resistance and resistant-moderately resistant field reactions at all four field sites. Resistant entries, especially those with HTAP resistance, were also identified in the field experiments.
+ 

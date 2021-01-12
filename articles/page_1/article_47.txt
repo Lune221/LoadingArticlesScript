@@ -1,0 +1,8 @@
+47
+A major QTL effect controlling resistance to powdery mildew in winter wheat at the adult plant stage
+0.5847741
+Authors:Bougot, YLemoine, JPavoine, MTGuyomar'ch, HGautier, VMuranty, HBarloy, D
+2006
+Plant Breed.
+AbstractPowdery mildew is one of the major diseases of wheat in regions with a maritime or semi-continental climate which can strongly affect grain yield. The objective of the study was to identify and compare quantitative resistance to powdery mildew of line RE9001 at the adult plant and vernalized seedling stages. RE9001 has no known Pin gene and shows a high level of adult plant resistance in the field. Using 104 recombinant inbred lines (RILs) of an RE9001 x 'Courtot' F8 population, a genetic map was developed with 363 markers distributed over 26 linkage groups and covering 3825 cM. The global map density was 1 locus/10.3 cM. RILs were assessed under field and tunnel greenhouse conditions for 2 years in two locations. Eleven quantitative trait loci (QTL) were detected at the adult stage and they explained 63% of the variation, depending on the environment. Three QTLs were found, at least, in the two environments. One QTL from RE9001, mapped on chromosome 213, was stable in each environment. This QTL, QPm.inra.2B, explained 10.3-36.6% of the variation and could be mapped in the vicinity of the Pm6 gene. At the vernalized seedling stage, one QTL detected by the isolate 93-27 could be an allele of the Pm3g gene present in 'Courtot'. No residual effect of the Pm3g gene was detected at either stage. Markers flanking the QTL 2B could be useful tools to combine resistance to powdery mildew in wheat cultivars.
+ 

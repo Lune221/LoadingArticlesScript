@@ -1,0 +1,8 @@
+18
+Lesion mimic associates with adult plant resistance to leaf rust infection in wheat
+0.69307697
+Authors:Li, TBai, GH
+2009
+Theor. Appl. Genet.
+AbstractLesion mimics (LM) that resemble plant disease symptoms in the absence of plant pathogens may confer enhanced plant disease resistance to a wide range of pathogens. Wheat line Ning7840 has adult plant resistance (APR) to leaf rust (Puccinia triticina) and shows LM symptoms at heading. A recessive gene (lm) was found to be responsible for LM in Ning7840 and located near the proximal region of chromosome 1BL using a population of 179 recombinant inbred lines (RIL) derived from the cross Ning7840/Chokwang. Genomic in situ hybridization showed that Ning7840 carries the short arm of 1R chromosome from rye (Secale cereale L.), on which the race-specific gene Lr26 resides. The RILs were infected with the isolate PRTUS 55, an isolate virulent to Lr26, at anthesis in two greenhouse experiments. The result showed that the lines with LM phenotype had a significantly higher rust resistance than the non-LM lines. Composite interval mapping consistently detected a QTL, Qlr.pser.1BL, for APR on chromosome 1BL. Qlr.pser.1BL peaked at lm and explained up to 60.8% of phenotypic variation for leaf rust resistance in two greenhouse experiments, therefore, lm from Ning7840 may have pleiotropic effects on APR to leaf rust.
+ 

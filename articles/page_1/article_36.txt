@@ -1,0 +1,8 @@
+36
+Identification of RAPD markers associated with Helminthosporium leaf blight (HLB) disease resistance in wheat
+0.605447
+Authors:Makandar, RPrabhu, KV
+2009
+Indian J. Genet. Plant Breed.
+AbstractTo detect a set of RAPID markers associated with spot blotch/Helminthosporium leaf blight (HLB) resistance in wheat, F(2) population of a cross, WH 147 x Chirya 3, comprising 332 individuals was analyzed by Bulked segregant analysis (BSA). Four putative polymorphic and reproducible RAPD markers; OPK06(791), OPA10(1140), OPN15(765) and OPA12(464) were identified. The markers, OPK06(791) and OPA10(1040) were associated with resistance in repulsion phase while, OPN15(765) and OPA12464 in coupling phase. Together, these markers determined a significant proportion of total phenotypic variation (25.05%). Regression analysis revealed three markers, OPK06(791), OPA10(1040) and OPN15(765) to be significantly associated with disease phenotype.
+ 

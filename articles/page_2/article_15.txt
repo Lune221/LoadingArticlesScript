@@ -1,0 +1,8 @@
+65
+The dissection and SSR mapping of a high-temperature adult-plant stripe rust resistance gene in American spring wheat cultivar Alturas
+0.5267635
+Authors:Zhao, LFeng, JZhang, CYXu, XDChen, XMSun, QMiao, QXu, SCLin, F
+2012
+Eur. J. Plant Pathol.
+AbstractStripe rust is one of major diseases in wheat production worldwide. The best economic and efficient method is to utilize resistant varieties. Alturas has high-temperature adult-plant resistance. In order to determine stripe rust resistance characteristics, resistance gene combination and molecular map of the resistance gene(s), Alturas was crossed with Chinese susceptible cultivar Taichung29. The parents, F-1, F-2 progenies were tested with Chinese predominant mixed races CYR31, CYR32 and CYR33 in field experiments in 2010 and F-3 progenies were evaluated at one site in Beijing, the other site in Langfang, Hebei Province. Infection type (IT) and disease severity (DS) were recorded three times for each plant for F-1 and F-2, and each progeny for F-3 during each growing season. The DS data were used to calculate relative area under the disease progress curve (AUDPC) values. Both IT and AUDPC data showed continuous distributions, indicating that the Alturas HTAP resistance was controlled by quantitative trait loci (QTLs). A major HTAP QTL, designated as QYrAlt.syau-3BS, was consistently detected across environments and was located on chromosome 3BS. The gene contributed to 34.28 % of the phenotypic variation for average AUDPC and 50.20 % for average IT. Markers Xgwm389 and Xbarc238 flanking the major QTL, should be useful in breeding for obtaining durable and high-level resistance by combinations with other non-race-specific resistance genes.
+ 

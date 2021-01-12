@@ -1,0 +1,8 @@
+69
+The Lr46 Gene Conditions Partial Adult-Plant Resistance to Stripe Rust, Stem Rust, and Powdery Mildew in Thatcher Wheat
+0.5241364
+Authors:Kolmer, JALagudah, ESLillemo, MLin, MBai, G
+2015
+Crop Sci.
+AbstractDisease resistance is a critical goal for many wheat (Triticum aestivum L.) improvement programs. Wheat cultivars are affected by multiple diseases including the rusts and powdery mildew. The F-6 recombinant inbred lines (RILs) derived from 'Thatcher'*3/'CI13227' that had been previously characterized as having adult-plant leaf rust resistance gene Lr46 were further tested for resistance to stripe rust, stem rust, and powdery mildew. In field plot tests, the RILs segregated for resistance to stripe rust, stem rust, and powdery mildew, with the highest logarithm of odds (LOD) peak at the sequence tagged site marker csLV46, which is closely linked to Lr46 on chromosome 1BL. Marker csLV46 had the highest LOD scores and R-2 values for powdery mildew resistance, followed by stripe rust and leaf rust resistance. Tests for stem rust resistance had the lowest LOD scores. An additional quantitative trait locus (QTL) on chromosome 7AL for leaf rust resistance derived from CI13227 was detected in two of the three leaf rust tests. A QTL for stem rust resistance on chromosome 7AL derived from Thatcher was detected in two of the three stem rust tests.
+ 

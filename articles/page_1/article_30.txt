@@ -1,0 +1,8 @@
+30
+Molecular cytogenetic characterization and disease resistance observation of wheat-Dasypyrum breviaristatum partial amphiploid and its derivatives
+0.6228216
+Authors:Yang, ZJLi, GRFeng, JJiang, HRRen, ZL
+2005
+Hereditas
+AbstractA wheat-Dasypyrum breviaristatum partial amphiploid and its derivatives were analyzed by molecular cytological observation and tested for disease resistance in order to evaluate the potential use of the D. breviaristatum for wheat improvement. A fertility- improved partial amphiploid, TDH-2, was produced from the selfing population of Triticum aestivum cv. Chinese spring (CS)-D. breviaristatum amphiploid. Based on the results obtained from genomic in situ hybridization (GISH) and seed protein electrophoresis, we found the presence of fourteen D. breviaristatum chromosomes and the absence of D genome in TDH-2, indicating that the genomic composition of TDH-2 was AABBV(b)v(b). GISH analysis on BC1F4 progenies of TDH-2 x wheat demonstrated that alien D. breviaristatum chromosomes or segments were frequently transmitted. A survey of diseases resistance revealed that powdery mildew resistance from D. breviaristatum was totally expressed, however, the expression of stripe rust resistance from D. breviaristatum was dependent on the wheat background. The comparison of polymerase chain reaction (PCR), which was carried out using molecular marker SCAR(1400) linked to Pm21 D. villosum-derived powdery mildew resistance gene, suggested that D. breviaristatum possessed new resistance gene(s) different from that in D. villosum. The present study showed that the partial amphiploid TDH-2 and its derivatives could serve as novel sources for transfer of disease resistance genes to wheat.
+ 

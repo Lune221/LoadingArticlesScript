@@ -1,0 +1,8 @@
+88
+A PCR-based molecular marker applicable for marker-assisted selection for anthracnose disease resistance in lupin breeding
+0.4964264
+Authors:You, MBoersma, JGBuirchell, BJSweetingham, MWSiddique, KHMYang, H
+2005
+Cell. Mol. Biol. Lett.
+AbstractSelection for anthracnose disease resistance is one of the major objectives in lupin breeding programs. The aim of this study was to develop a molecular marker linked to a gene conferring anthracnose resistance in narrow-leafed lupin (Lupinus angustifolius L.), which can be widely used for MAS in lupin breeding. A F-8 derived RIL population from a cross between cultivar Tanjil (resistant to anthracnose) and Unicrop (susceptible) was used for marker development. DNA fingerprinting was conducted on 12 representative plants by combining the AFLP method with primers designed based on conserved sequences of plant disease resistance genes. A co-dominant candidate marker was detected from a DNA fingerprint. The candidate marker was cloned, sequenced, and converted into a sequence-specific, simple PCR based marker. Linkage analysis based on a segregating population consisting of 184 RILs suggested that the marker, designated as AntjM2, is located 2.3 cM away from the R gene conferring anthracnose resistance in L. angustifolius. The marker has now being implemented for MAS in the Australian national lupin breeding program.
+ 

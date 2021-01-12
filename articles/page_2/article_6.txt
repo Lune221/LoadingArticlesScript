@@ -1,0 +1,8 @@
+56
+A resistance gene analog useful for targeting disease resistance genes against different pathogens on group 1S chromosomes of barley, wheat and rye
+0.5483546
+Authors:Mohler, VKlahr, AWenzel, GSchwarz, G
+2002
+Theor. Appl. Genet.
+AbstractComparative sequence analysis of the resistance gene analog (RGA) marker locus aACT/CAA (originally found to be tightly linked to the multiallelic barley Mla cluster) from genomes of barley, wheat and rye revealed a high level of relatedness among one another and showed high similarity to a various number of NBS-LRR disease resistance proteins. Using the sequence-specific polymerase chain reaction (PCR), RGA marker aACT/CAA was mapped on group IS chromosomes of the Triticeae and was associated with disease resistance loci. In barley and rye, the marker showed linkage to orthologous powdery mildew resistance genes Mla1 and Pm17, respectively, while in wheat linkage with a QTL against fusarium head blight (FHB) disease was determined. The use of RGA clones for R gene mapping and their role in the expression of qualitative and quantitative resistance is discussed.
+ 

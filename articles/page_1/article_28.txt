@@ -1,0 +1,8 @@
+28
+Genome-wide linkage analysis of 160 North American families with celiac disease
+0.63164306
+Authors:Garner, CPDing, YCSteele, LBook, LLeiferman, KZone, JJNeuhausen, SL
+2007
+Genes Immun.
+AbstractCeliac disease (CD) is a common autoimmune disease caused by exposure to the protein gliadin in wheat, and related prolamins in barley and rye. The prevalence of the disease in the US is 1:133. The aim of this study was to identify non-human leukocyte antigen (HLA) loci that predispose to CD. A genome-wide search of 405 microsatellite markers was performed on DNA samples from 160 families with a minimum of two cases of CD. Multipoint, parametric and non-parametric linkage (NPL) analyses were performed. Locations on chromosomes 1q, 3q, 6p, 6q, 7q, 9q and 10q showed linkage statistics (NPL scores or heterogeneity logarithm of the odds (HLOD) scores) of approximately 2.0 or larger. The greatest evidence for linkage outside of chromosome 6 was on 7q and 9q. An NPL score of 2.60 occurred at position 151.0 on 7q and a HLOD score of 2.47 occurred at position 144.8 on 9q under a recessive model. As expected, there was highly significant linkage to the HLA region on 6p, with NPL and HLOD scores exceeding 5.50. In conclusion, this genome-wide linkage analysis represents one of the largest such studies of CD. The most promising region is a putative locus on 7q, a region reported independently in previous genome-wide searches.
+ 

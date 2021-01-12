@@ -1,0 +1,8 @@
+86
+QTL mapping of adult plant resistance to Ug99 stem rust in the spring wheat population RB07/MN06113-8
+0.5016327
+Authors:Bajgain, PRouse, MNBhavani, SAnderson, JA
+2015
+Mol. Breed.
+AbstractThe emergence and spread of the Ug99 race group of the stem rust pathogen (Puccinia graminis Pers. f. sp. tritici) in the past decade have exposed the vulnerability of wheat (Triticum aestivum L.) to this disease. Discovery of novel and effective sources of resistance is vital for breeding resistant varieties to avert losses. The experimental breeding lineMN06113-8 and cultivar RB07 developed by the University of Minnesota wheat breeding program exhibited adult plant resistance (APR) to the Ug99 race group in field tests in Kenya and Ethiopia. Both lines were found to be susceptible at the seedling stage to isolates of the race TTKSK, TTKST, and TTTSK. To dissect the genetic mechanism of resistance present in these lines, MN06113-8 was crossed to RB07 to generate 141 F-6 recombinant inbred lines (RILs). The RIL population was evaluated for APR to Ug99 in Kenya and Ethiopia over three seasons and for resistance to North American stem rust pathogen races in St. Paul, MN, in one season. The population was genotyped using high-throughput SNP genotyping assays. Composite interval mapping detected six quantitative trait loci (QTL) involved in APR to African stem rust races and three QTLs involved in stem rust resistance to North American stem rust races. One QTL located on chromosome 2B was associated with APR to stem rust races in all environments. Development of diagnostic markers linked to this gene will facilitate marker-assisted selection of resistant lines to develop varieties with enhanced levels of stem rust resistance.
+ 

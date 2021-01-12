@@ -1,0 +1,8 @@
+97
+Detection of molecular markers linked to the durable adult plant stripe rust resistance gene Yr18 in bread wheat (Triticum aestivum L.)
+0.4618233
+Authors:Imtiaz, MAhmad, MCromey, MGGriffin, WBHampton, JG
+2004
+Plant Breed.
+AbstractStripe rust of wheat caused by Puccinia striiformis West. f. sp. tritici presents a serious problem for wheat production worldwide, and identification and deployment of resistance sources to it are key objectives for many wheat breeders. Here we report the detection of simple sequence repeat (SSR) markers linked to the durable adult plant resistance of cv. 'Otane', which has conferred this resistance since its release in New Zealand in 1984. A double haploid population from a cross between 'Otane' and the susceptible cv. 'Tiritea' was visually assessed for adult plant infection types (IT) in the glasshouse and field, and for final disease severity in the field against stripe rust pathotype 106E139A(+). At least three resistance loci controlled adult plant resistance to stripe rust in this population. Quantitative trait loci (QTL) mapping results revealed that two of these, one on chromosome 7DS corresponds to the durable adult plant resistance gene Yr18 and other on chromosome 5DL were contributed from 'Otane'; while the remaining one on chromosome 7BL, was contributed from the susceptible 'Tiritea'. Interval mapping placed the 'Otane'-resistant segment near the centromere of chromosome 7DS at a distance of 7 cM from the SSR marker gwm44. The stability of QTL in the two environments is discussed. SSR gwm44 is potentially a candidate marker for identifying the durable resistance gene Yr18 in breeding programmes.
+ 

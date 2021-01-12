@@ -1,0 +1,8 @@
+17
+Mendelization and fine mapping of a bread wheat spot blotch disease resistance QTL
+0.69971967
+Authors:Kumar, SRoder, MSTripathi, SBKumar, SChand, RJoshi, AKKumar, U
+2015
+Mol. Breed.
+AbstractThe wheat (Triticum aestivum L.) quantitative trait locus (QTL) QSb. bhu-5B, which determines resistance to spot blotch (causative pathogen Bipolaris sorokiniana), was mapped to an interval of 0.62 cM on chromosome arm 5BL via the analysis of a recombinant inbred line population bred from a cross between 'YS116' and 'Sonalika.' 'YS116' is an F-12 selection from the cross 'Yangmai 6' (source of resistance) 9 'Sonalika,' which contains only one spot blotch resistance QTL. Lines tested from F-3 to F-5 were inoculated in the field with B. sorokiniana over three consecutive seasons. Measurements of both disease severity and the area under the disease progress curve were used to assess each line's disease response. In the present population, QSb. bhu-5B, which is flanked by the SSR loci Xgwm639 (0.28 cM) and Xgwm1043, behaved as a single Mendelian gene and was given the gene symbol Sb2. The physical location of Sb2 is within the 5BL1-0.55-0.75 deletion bin. Both Xgwm1043 and Xgwm639 were effective as indirect selection tools in various genetic backgrounds.
+ 

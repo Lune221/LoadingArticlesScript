@@ -1,0 +1,8 @@
+34
+Sugar chains of cerebrospinal fluid transferrin as a new biological marker of Alzheimer's disease
+0.6119237
+Authors:Taniguchi, MOkayama, YHashimoto, YKitaura, MJimbo, DWakutani, YWada-Isoe, KNakashima, KAkatsu, HFurukawa, KArai, HUrakami, K
+2008
+Dement. Geriatr. Cogn. Disord.
+AbstractBackground/Aims: Alzheimer's disease (AD) is a well-known type of dementia. However, it remains difficult to identify AD in the early stage and to distinguish it from other dementing disorders. We examined glycoproteins in cerebrospinal fluid (CSF) as potential biological markers of AD. Methods: CSF samples were collected from AD, other dementia and non-demented patients. Glycoproteins in CSF were detected by lectin blotting using wheat germ agglutinin (WGA), and sugar chain analysis was performed by isoelectric focusing. Results: In Alzheimer's CSF, several glycoproteins had lower WGA-binding activities, one of which was sufficiently sensitive and specific to distinguish AD from nondemented controls and other dementias. Further analysis identified this glycosylated protein as transferrin, and altered sugar chain composition of transferrin isoforms was observed despite normal protein levels in CSF. Conclusion: The decreased WGA-binding activity of transferrin in AD is probably due to altered glycosylation of transferrin molecules. Transferrin glycosylation is thus a potential biological marker for AD diagnosis, and changes in this glycosylation may play an important role in the pathophysiology of AD. Copyright (C) 2008 S. Karger AG, Basel.
+ 

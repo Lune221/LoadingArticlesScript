@@ -1,0 +1,8 @@
+15
+Mapping of a wheat resistance gene to yellow mosaic disease by amplified fragment length polymorphism and simple sequence repeat markers
+0.7906366
+Authors:Liu, WHNie, HHe, ZTChen, XLHan, YPWang, JRLi, XHan, CGYu, JL
+2005
+J. Integr. Plant Biol.
+AbstractWheat (Triticum aestivum L.) yellow mosaic virus (WYMV) is transmitted by a fungal vector through soil and causes serious wheat yield losses due to yellow mosaic disease, with yellow-streaked leaves and stunted plants. In the present study, the amplified fragment length polymorphisms (AFLP) and simple sequence repeat (SSR) were used to identify the molecular linkages with the resistance gene against WYMV. Bulked segregant analysis was performed with an F-2 population derived from the cross of cultivar Ningmai 9 (resistant) X cultivar Yangmai 10 (susceptible). By screening among the resistant or susceptible parents, the F2 pools and the individuals in the F2 population with 64 combined selective AFLP primers (EcoRI/Msel) or 290 reported SSR primers, a polymorphic DNA segment (approximately 120 bp) was amplified using the primer pair E2/M5, and an SSR marker (approximately 180 bp) was located on wheat chromosome 2A using the primer Xgwm328. Analysis with MAPMAKER/Exp Version 3.0b (Whitehead institute for Biomedical Research, Cambridge, MA, USA) indicated that these two markers were dominantly associated with the resistance gene at distances of 5.4 cM or 17.6 cM, respectively. The resistance gene to WYMV derived from Ningmai 9, is temporarily named YmNM, and was mapped to wheat chromosome 2A.
+ 

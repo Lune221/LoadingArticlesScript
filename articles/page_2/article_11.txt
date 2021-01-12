@@ -1,0 +1,8 @@
+61
+A genome-wide genetic map of NB-LRR disease resistance loci in potato
+0.5404116
+Authors:Bakker, EBorm, TPrins, Pvan der Vossen, EUenk, GArens, Mde Boer, Jvan Eck, HMuskens, MVossen, Jvan der Linden, Gvan Ham, RKlein-Lankhorst, RVisser, RSmant, GBakker, JGoverse, A
+2011
+Theor. Appl. Genet.
+AbstractLike all plants, potato has evolved a surveillance system consisting of a large array of genes encoding for immune receptors that confer resistance to pathogens and pests. The majority of these so-called resistance or R proteins belong to the super-family that harbour a nucleotide binding and a leucine-rich-repeat domain (NB-LRR). Here, sequence information of the conserved NB domain was used to investigate the genome-wide genetic distribution of the NB-LRR resistance gene loci in potato. We analysed the sequences of 288 unique BAC clones selected using filter hybridisation screening of a BAC library of the diploid potato clone RH89-039-16 (S. tuberosum ssp. tuberosum) and a physical map of this BAC library. This resulted in the identification of 738 partial and full-length NB-LRR sequences. Based on homology of these sequences with known resistance genes, 280 and 448 sequences were classified as TIR-NB-LRR (TNL) and CC-NB-LRR (CNL) sequences, respectively. Genetic mapping revealed the presence of 15 TNL and 32 CNL loci. Thirty-six are novel, while three TNL loci and eight CNL loci are syntenic with previously identified functional resistance genes. The genetic map was complemented with 68 universal CAPS markers and 82 disease resistance trait loci described in literature, providing an excellent template for genetic studies and applied research in potato.
+ 

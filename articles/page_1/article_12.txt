@@ -1,0 +1,8 @@
+12
+Chromosome engineering, mapping, and transferring of resistance to Fusarium head blight disease from Elymus tsukushiensis into wheat
+0.8178391
+Authors:Cainong, JCBockus, WWFeng, YGChen, PDQi, LLSehgal, SKDanilova, TVKoo, DHFriebe, BGill, BS
+2015
+Theor. Appl. Genet.
+AbstractThis manuscript describes the transfer and molecular cytogenetic characterization of a novel source of Fusarium head blight resistance in wheat. Fusarium head blight (FHB) caused by the fungus Fusarium graminearum Schwabe [telomorph = Gibberella zeae (Schwein. Fr.) Petch] is an important disease of bread wheat, Triticum aestivum L. (2n = 6x = 42, AABBDD) worldwide. Wheat has limited resistance to FHB controlled by many loci and new sources of resistance are urgently needed. The perennial grass Elymus tsukushiensis thrives in the warm and humid regions of China and Japan and is immune to FHB. Here, we report the transfer and mapping of a major gene Fhb6 from E. tsukushiensis to wheat. Fhb6 was mapped to the subterminal region in the short arm of chromosome 1E(ts)#1S of E. tsukushiensis. Chromosome engineering was used to replace corresponding homoeologous region of chromosome 1AS of wheat with the Fhb6 associated chromatin derived from 1E(ts)#1S of E. tsukushiensis. Fhb6 appears to be new locus for wheat as previous studies have not detected any FHB resistance QTL in this chromosome region. Plant progenies homozygous for Fhb6 had a disease severity rating of 7 % compared to 35 % for the null progenies. Fhb6 has been tagged with molecular markers for marker-assisted breeding and pyramiding of resistance loci for effective control of FHB.
+ 

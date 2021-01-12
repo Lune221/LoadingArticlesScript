@@ -1,0 +1,8 @@
+93
+Antibodies from a patient with type 1 diabetes and celiac disease bind to macrophages that express the scavenger receptor CD163
+0.48838013
+Authors:Sonier, BStrom, AWang, GSPatrick, CCrookshank, JAMojibian, MMacFarlane, AJScott, FW
+2011
+Can. J. Gastroenterol.
+AbstractAntibodies against the wheat storage globulin Glo-3A from a patient with both type 1 diabetes (T1D) and celiac disease were enriched to identify potential molecular mimicry between wheat antigens and T1D target tissues. Recombinant Glo-3A was used to enrich anti-Glo-3A immunoglobulin G antibodies from plasma by batch affinity chromatography. Rat jejunum and pancreas, as well as human duodenum and monocytes were probed, and binding was evaluated by immunohistochemistry and confocal microscopy. Glo-3A-enriched antibodies bound to a specific subset of cells in the lamina propria of rat jejunum that co-localized mostly with a marker of resident, alternatively activated CD163-positive (CD163(+)) macrophages. Blood monocytes and macrophage-like cells in human duodenum were also labelled with the enriched antibodies. Blocking studies revealed that binding to CD163+ macrophages was not due to cross-reactivity with anti-Glo-3A antibodies, but rather to non-Glo-3A antibodies co-purified during antibody enrichment. The novel finding of putative autoantibodies against tolerogenic intestinal CD163(+) macrophages suggests that regulatory macrophages were targeted in this patient with celiac disease and T1D.
+ 

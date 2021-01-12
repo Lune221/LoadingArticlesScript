@@ -1,0 +1,8 @@
+77
+QTL mapping of adult-plant resistance to stripe rust in a "Lumai 21xJingshuang 16' wheat population
+0.51642776
+Authors:Ren, YLiu, LSHe, ZHWu, LBai, BXia, XC
+2015
+Plant Breed.
+AbstractStripe rust, caused by Puccinia striiformis f. sp. tritici, is a devastating fungal disease in common wheat (Triticum aestivum L.) worldwide. Chinese wheat cultivars Lumai 21' and Jingshuang 16' show moderate levels of adult-plant resistance (APR) to stripe rust in the field, and they showed a mean maximum disease severity (MDS) ranging from 24 to 56.7% and 26 to 59%, respectively, across different environments. The aim of this study was to identify quantitative trait loci (QTL) for resistance to stripe rust in an F-3 population of 199 lines derived from Lumai 21'xJingshuang 16'. The F-3 lines were evaluated for MDS in Qingshui, Gansu province, and Chengdu, Sichuan province, in the 2009-2010 and 2010-2011 cropping seasons. Five QTL for APR were detected on chromosomes 2B (2 QTL), 2DS, 4DL and 5DS based on mean MDS in each environment and averaged values from all three environments. These QTL were designated QYr.caas-2BS.2, QYr.caas-2BL.2, QYr.caas-2DS.2, QYr.caas-4DL.2 and QYr.caas-5DS, respectively. QYr.caas-2DS.2 andQYr.caas-5DS were detected in all three environments, explaining 2.3-18.2% and 5.1-18.0% of the phenotypic variance, respectively. In addition, QYr.caas-2BS.2 and QYr.caas-2BL.2 colocated with QTL for powdery mildew resistance reported in a previous study. These APR genes and their linked molecular markers are potentially useful for improving stripe rust and powdery mildew resistances in wheat breeding.
+ 

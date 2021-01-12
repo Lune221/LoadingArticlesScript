@@ -1,0 +1,8 @@
+23
+Gluten: a two-edged sword. Immunopathogenesis of celiac disease
+0.65816873
+Authors:Koning, FGilissen, LWijmenga, C
+2005
+Springer Semin. Immunopathol.
+AbstractCeliac disease (CD) is a small intestinal disorder caused by adaptive and innate immune responses triggered by the gluten proteins present in wheat. In the intestine, gluten is partially degraded and modified, which results in gluten peptides that bind with high affinity to HLA-DQ2 or HLA-DQ8 and trigger an inflammatory T cell response. Simultaneously, gluten exposure leads to increased production of IL15, which induces the expression of NKG2D on intraepithelial lymphocytes and its ligand MICA on epithelial cells, leading to epithelial cell destruction. The gluten-specific T cell response results in the production of antibodies against tissue transglutaminase and these are specific indicators of disease. CD is one of the most common inherited diseases, the HLA-DQ locus being the major contributing genetic factor. However, as the inheritance does not follow a Mendelian segregation pattern, multiple other genes, each with relative weak effect, contribute to disease development. An important role for environmental factors, however, can not be ignored as the concordance rate in monozygous twins is considerably less than 100%. The identification of these environmental factors and susceptibility genes may allow a better understanding of disease etiology and provide diagnostic and prognostic markers. The current treatment for CD consists of a life-long gluten-free diet. Although long thought to be impossible, recent results suggest that the development of nontoxic wheat varieties may be feasible, which would aid disease prevention and provide an alternative food source for patients.
+ 

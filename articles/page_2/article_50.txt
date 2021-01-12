@@ -1,0 +1,8 @@
+100
+PCR markers for selection of adult plant leaf rust resistance in barley (Hordeum vulgare L.)
+0.45386496
+Authors:Liu, FLGupta, SZhang, XQJones, MLoughman, RLance, RLi, CD
+2011
+Mol. Breed.
+AbstractAdult plant resistance (APR) is considered potentially more durable for controlling barley leaf rust than seedling Rph (Resistance to Puccinia hordei) genes. A major gene for adult plant resistance to barley leaf rust has been mapped to the telomere region of chromosome 5HS. PCR-based molecular markers were developed for saturation of this region based on previously mapped simple sequence repeat, restriction fragment length polymorphism and Diversity Arrays Technology markers. In addition, defence gene homologue (DGH) and wheat expressed sequence tags mapped in specific bins were used to develop new PCR markers. Seventeen PCR-based markers were mapped to the short arm of chromosome 5H in 292 doubled haploid lines from a cross of Pompadour x Stirling, in which seven markers were mapped within 5 cM of the APR gene. The closest linked marker was about 0.7 cM from the APR gene. The wheat deletion bin map together with defence gene homologues was demonstrated to be an efficient tool for development of new molecular markers associated with the disease resistance gene. Four DGH markers were associated with the APR gene. The new molecular markers are a useful tool for marker-assisted selection of the APR gene and provided a better understanding of the molecular mechanism for leaf rust resistance.
+ 

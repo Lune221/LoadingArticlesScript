@@ -1,0 +1,8 @@
+89
+Effects and interactions of genes Lr34, Lr68 and Sr2 on wheat leaf rust adult plant resistance in Uruguay
+0.49632117
+Authors:Silva, PCalvo-Salazar, VCondon, FQuincke, MPritsch, CGutierrez, LCastro, AHerrera-Foessel, Svon Zitzewitz, JGerman, S
+2015
+Euphytica
+AbstractAchieving durable resistance to leaf rust (LR), caused by Puccinia triticina, in wheat has been one of the main objectives of breeding programs. Durability of LR resistance is considered to be associated with adult plant resistance (APR) genes that are quantitatively inherited and whose expression is largely influenced by environment. Our objective was to study the effects and interactions of APR genes Lr34, Lr68 and Sr2 on LR response in Uruguay using two BC1F6 populations ('LE2304*2/Parula' and 'ORL99192*2/Parula'). The experimental material was screened for LR in three artificially inoculated environments (La Estanzuela 2012 and 2013 and Young 2012). Linked molecular markers were used to detect the presence of the genes conferring resistance to LR. Gene Lr34 was fixed in the 'LE2304*2/Parula' population. Lr68+Sr2 resulted in a reduction of 79 % of the LR area under the disease progress curve (AUDPC), while the presence of Lr68 alone resulted in a reduction of 51 %. In the 'ORL99192*2/Parula' population, the combined effect of Lr34+Lr68+Sr2 led to the highest reduction of LR AUDPC (73 %). Individually, Lr34 and Lr68 resulted in a reduction of the LR AUDPC of 14 and 50 %, respectively. Sr2 alone did not reduce LR AUDPC but enhanced the effect of either Lr34 or Lr68. Unlike previous reports Lr68 conferred a higher level of LR resistance than Lr34 in Uruguay.
+ 

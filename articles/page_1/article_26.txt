@@ -1,0 +1,8 @@
+26
+Molecular markers for adult plant leaf rust resistance gene Lr48 in wheat
+0.6489954
+Authors:Nsabiyera, VQureshi, NBariana, HSWong, DForrest, KLHayden, MJBansal, UK
+2016
+Mol. Breed.
+AbstractLeaf rust of wheat, caused by Puccinia triticina, is an important disease throughout the world. The adult plant leaf rust resistance gene Lr48 reported in CSP44 was previously mapped in chromosome 2B, but the marker-gene association was weak. In this study, we confirmed the location of Lr48 to be in the short arm of chromosome 2B and identified closely linked markers suitable for use in breeding. The CSP44/WL711 recombinant inbred line (RIL) population (90 lines) showed monogenic segregation for Lr48. Twelve resistant and 12 susceptible RILs were used for selective genotyping using an iSelect 90K Infinium SNP assay. Closely linked SNPs were converted into Kompetitive allele-specific primers (KASP) and tested on the parental lines. KASP markers giving clear clusters for alternate genotypes were assayed on the entire RIL population. SNP markers IWB31002, IWB39832, IWB34324, IWB72 894 and IWB36920 co-segregated with Lr48 and the marker IWB70147 was mapped 0.3 cM proximal to this gene. Closely linked KASP markers were tested on a set of Australian and Nordic wheat genotypes. The amplification of SNP alleles alternate to those linked with Lr48 in the majority of the Australian and Nordic wheat genotypes demonstrated the usefulness of these markers for marker-assisted pyramiding of Lr48 with other rust resistance genes.
+ 

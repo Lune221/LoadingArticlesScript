@@ -1,0 +1,8 @@
+16
+Detection and quantification of individual fungal species in Fusarium disease complexes of cereals by polymerase chain reaction (PCR)
+0.7570087
+Authors:Nicholson, PDoohan, FRezanoor, HNSimpson, DSmith, PHTurner, AWeston, G
+1997
+Cereal Res. Commun.
+AbstractUntil recently, no method was available to identify and quantify individual Fusarium species present within plant tissue. Specific DNA markers have been identified for the Fusarium species which are predominant components of the 'Fusarium ear blight complex' (scab) and 'stem-base complex' of cereals. Assays based upon the polymerase chain reaction (PCR) have been developed for detection of several of these fungi in DNA extracts from plant tissue. These assays have been refined to enable quantification of each species, allowing the relative contribution of each component to the disease of the plant to be estimated. Examples of the use of PCR techniques in host resistance and epidemiological studies involving F. poae, F. culmorum, Gibberella zeae (F. graminearum), G. avenacea (F. avenaceum) and M. nivale varieties is presented. The role of trichothecene mycotoxins in the pathogenicity of Fusarium species towards cereals is also being investigated and visual disease scoring and quantitative PCR are being used to investigate the effects of Tri5 gene disruption of G. zeae on the infection of seedlings and ears of wheat.
+ 

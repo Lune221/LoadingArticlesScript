@@ -1,0 +1,8 @@
+99
+Expression of active Streptomyces phage phiC31 integrase in transgenic wheat plants
+0.4584838
+Authors:Rubtsova, MKempe, KGils, AIsmagul, AWeyen, JGils, M
+2008
+Plant Cell Reports
+AbstractSite-specific recombination systems are becoming an important tool for the genetic modification of crop plants. Here we report the functional expression of the Streptomyces phage-derived phiC31 recombinase (integrase) in wheat. T-DNA constructs containing a phiC31 integrase transgene were stably transformed into wheat plants via particle gun bombardment. A plant-virus-based assay system was used to monitor the site-specific recombination activity of the recombinant integrase protein in vivo. We established several independent doubled haploid (DH) inbred lines that constitutively express an active integrase enzyme without any apparent detrimental effects on plant growth and development. The potential of phiC31 integrase expression in crop plants related to transgene control technologies or hybrid breeding systems is discussed.
+ 

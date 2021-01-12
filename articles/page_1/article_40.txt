@@ -1,0 +1,8 @@
+40
+Identification of Wheat Line YW243 on Comprehensive Resistance to Several Diseases by Pathogens and Molecular Markers
+0.6012878
+Authors:Xie, HLin, ZSZhang, ZYDu, LPXin, ZYMa, YZYe, XGChen, X
+2008
+Cereal Res. Commun.
+AbstractThe common wheat line, YW243, developed in our research group, was tested for the resistances of barley yellow dwarf virus (BYDV), powdery mildew (Pm) and stripe rust in field, and was analyzed by molecular markers for convenient trace of the resistant genes in breeding. Genomic in situ hybridization (GISH) analysis and sodium dodecyl sulfate polyacrylamide gel electrophoresis (SDS-PAGE) assay further demonstrated that YW243 was a homozygous multiple translocation line of Triticum aestivum, Thinopyrum intermedium and Secale cereale (T7DS(.)7DL-7XL & 1BL(.)1RS). The disease resistance test and marker analysis showed that YW243 carried seven resistance genes to the three diseases, including Bdv2 to BYDV on 7DL-7XL, Pm4 to powdery mildew on 2AL, Yr2, Yr9, Sr 31 and Lr26 and a new Yr to stripe rust on 7B, 1BL, 1RS and 2BL. Restriction fragment length polymorphism (RFLP) markers Xpsr687 and Xwg380, sequence tagged site (STS) marker STS1700, simple sequence repeat (SSR) markers Xgwmc364 and Xgwm582, SSR markers Xgwm388 and Xgwm501 can be used as diagnostic tools to track Bdv2, Pm4, Yr2, Yr9 and Yr in YW243, respectively; and two amplified fragment length polymorphism (AFLP) markers M54E63-(700) and M54E64-(699) can also be used to select Yr in YW243.
+ 

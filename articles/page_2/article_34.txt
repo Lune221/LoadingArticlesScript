@@ -1,0 +1,8 @@
+84
+Characterization of a major QTL for adult plant resistance to stripe rust in US soft red winter wheat
+0.5016327
+Authors:Hao, YFChen, ZBWang, YYBland, DBuck, JBrown-Guedira, GJohnson, J
+2011
+Theor. Appl. Genet.
+AbstractStripe rust, caused by Puccinia striiformis f. sp. tritici, is an important disease of soft red winter wheat in the eastern region of the USA. Pioneer 26R61 has provided effective resistance to stripe rust for 10 years. To elucidate the genetic basis of the resistance, a mapping population of 178 recombinant inbred lines (RILs) was developed using single-seed descent from a cross between Pioneer 26R61 and the susceptible cultivar AGS 2000. A genetic map with 895 markers covering all 21 chromosomes was used for QTL analysis. One major QTL was detected, explaining up to 56.0% of the mean phenotypic variation, flanked by markers Xbarc124 and Xgwm359, and assigned to the distal 22% of the short arm of wheat chromosome 2A. Evidence showed that it was different from Yr17 derived from Ae. ventricosa, the only formally named Yr gene in 2AS, and the QTL was temporarily designated as YrR61. In addition, a minor QTL, QYr.uga-6AS, probably conditioned high-temperature adult plant resistance. The QTL explained 6-7% of the trait variation. Preliminary test of the flanking markers for YrR61, in two cultivars and two promising breeding lines with Pioneer 26R61 in their pedigree, indicated that YrR61 was present in these cultivars and lines, and these markers could therefore be used in marker-assisted selection.
+ 

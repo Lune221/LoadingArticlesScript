@@ -1,0 +1,8 @@
+59
+Chromosome composition of wheat-rye lines and the influence of rye chromosomes on disease resistance and agronomic traits
+0.5445492
+Authors:Chumanova, EVEfremova, TTTrubacheeva, NVArbuzova, VSRosseeva, LP
+2014
+Russ. J. Genet.
+AbstractIdentification of the chromosomal composition of common wheat lines with rye chromosomes was carried out using genomic in situ hybridization and 1RS- and 5P-specific PCR markers. It was demonstrated that wheat chromosomes 5A or 5D were substituted by rye chromosome 5R in the wheat-rye lines. It was established that one of the lines with complex disease resistance contained rye chromosome 5R and T1RS.1BL, while another line was found to contain, in addition to T1RS.1BL, a new Robertsonian translocation, T5AS.5RL. Substitution of the wheat chromosome 5A with the dominant Vrn-A1 gene for the Onokhoiskaya rye chromosome 5R led to lengthening of the germination-heading period or to a change in the type of development. A negative influence of T1RS.1BL on SDS sedimentation volume and grain hardness was demonstrated, along with a positive effect of the combination of T1RS.1BL and 5R(5D) substitution on grain protein content. Quantitative traits of the 5R(5A) and 5R(5D) substitution lines were at the level of recipient cultivars. A line with two translocations, T1RS.1BL + T5AS.5Rl, appeared to be more productive as compared to the line carrying T1RS.1BL in combination with the 5R(5D) substitution.
+ 
