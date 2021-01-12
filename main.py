@@ -28,7 +28,7 @@ def scroll_to_end(wd, sleep_between_interactions):
 
 
 def fetch_article(url: str, max_pages: int, sleep_between_interactions: int = 4):
-    wd = webdriver.Chrome(executable_path=DRIVER_PATH_WINDOWS)
+    wd = webdriver.Chrome(executable_path=DRIVER_PATH_MACOS)
     # load the page
     wd.get(url)
 
